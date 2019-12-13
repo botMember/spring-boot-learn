@@ -1,2 +1,3 @@
-name: abc
-title: bef
+spring:
+  application:
+    name: config-single-server  
