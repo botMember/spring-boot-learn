@@ -1,3 +1,3 @@
 spring:
-  application:
-    name: config-single-server  
+  app:
+    hello: config-single-server  
